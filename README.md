@@ -23,10 +23,13 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
 
 ## Loading
-* []
+* [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 
 ## Framework
 * [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3
 * [web-starter-kit](https://github.com/google/web-starter-kit) - Google Web Starter Kit (Beta)
 * [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
+* [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
+
