@@ -8,6 +8,7 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
     - [Form](#form)
     - [Loading](#loading)
     - [Framework](#framework)
+    - [Template](#template)
 
 ---
 
@@ -33,3 +34,6 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 * [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
 * [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
 
+## Template
+* [transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
+* [templates](https://github.com/sendwithus/templates) - Sendwithus Open Source Email Templates
