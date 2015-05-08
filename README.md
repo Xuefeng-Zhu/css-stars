@@ -6,9 +6,11 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 - [CSS Stars](#css-stars)
     - [Animation](#animation)
     - [Form](#form)
-    - [Loading](#loading)
+    - [Font](#font)
     - [Framework](#framework)
+    - [Loading](#loading)  
     - [Template](#template)
+    - [Guide](#guide)
 
 ---
 
@@ -23,9 +25,8 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 ## Form
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
 
-## Loading
-* [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
-* [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+## Font
+* [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments 
 
 ## Framework
 * [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
@@ -33,7 +34,17 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 * [web-starter-kit](https://github.com/google/web-starter-kit) - Google Web Starter Kit (Beta)
 * [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
 * [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
+* [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A Twitter Bootstrap theme to make webpages look like they are from the 1980s
+* [bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface
+
+## Loading
+* [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
+* [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS 
 
 ## Template
 * [transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
 * [templates](https://github.com/sendwithus/templates) - Sendwithus Open Source Email Templates
+* [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups)
+
+## Guide
+* [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development 
