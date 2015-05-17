@@ -38,6 +38,7 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 * [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A Twitter Bootstrap theme to make webpages look like they are from the 1980s
 * [bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface
 * [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+* [Flat-UI](https://github.com/designmodo/Flat-UI) - Flat UI Free - Design Framework (html/css3/less/js). Flat UI is based on Bootstrap, a comfortable, responsive, and functional framework that simplifies the development of websites. 
 
 ## Loading
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
