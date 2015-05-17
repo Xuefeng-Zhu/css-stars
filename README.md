@@ -37,6 +37,7 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 * [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
 * [BOOTSTRA.386](https://github.com/kristopolous/BOOTSTRA.386) - A Twitter Bootstrap theme to make webpages look like they are from the 1980s
 * [bootmetro](https://github.com/aozora/bootmetro) - Simple and complete web UI framework to create web apps with Windows 8 Metro user interface
+* [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 
 ## Loading
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
