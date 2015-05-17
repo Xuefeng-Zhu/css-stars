@@ -28,6 +28,7 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 
 ## Font
 * [source-code-pro](https://github.com/adobe-fonts/source-code-pro) - Monospaced font family for user interface and coding environments 
+* [webfontloader](https://github.com/typekit/webfontloader) - Web Font Loader gives you added control when using linked fonts
 
 ## Framework
 * [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
