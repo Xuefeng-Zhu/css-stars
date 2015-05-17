@@ -55,3 +55,4 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 
 ## Guide
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development 
+* [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet) - Everything you need to kick ass on your coding interview
