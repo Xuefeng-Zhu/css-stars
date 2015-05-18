@@ -33,6 +33,7 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 ## Framework
 * [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3
+* [material-ui](https://github.com/callemall/material-ui) - A Set of React Components that Implement Google's Material Design. 
 * [web-starter-kit](https://github.com/google/web-starter-kit) - Google Web Starter Kit (Beta)
 * [Metro-UI-CSS](https://github.com/olton/Metro-UI-CSS) - CSS styles for build Windows 8 Metro UI stylable interface
 * [Bootstrap-Clean-Dashboard-Theme](https://github.com/keaplogik/Bootstrap-Clean-Dashboard-Theme) - Bootstrap theme with demo and additional UI components not included in the bootstrap packaging. Fixed footer, admin panels, shadow box and more.
