@@ -49,6 +49,7 @@ my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 * [transactional-email-templates](https://github.com/mailgun/transactional-email-templates) - Responsive transactional HTML email templates
 * [templates](https://github.com/sendwithus/templates) - Sendwithus Open Source Email Templates
 * [html5-device-mockups](https://github.com/pixelsign/html5-device-mockups)
+* [Bootstrap_Metro_Dashboard](https://github.com/jiji262/Bootstrap_Metro_Dashboard) - A Metro Style Administrator Dashboard Template with Twitter Bootstrap
 
 ## Tools
 * [fontello](https://github.com/fontello/fontello) - Iconic fonts scissors
