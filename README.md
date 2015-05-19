@@ -1,7 +1,7 @@
 # CSS-Stars
-==============
 
-my stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+
+My stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [CSS Stars](#css-stars)
     - [Animation](#animation)
