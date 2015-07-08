@@ -32,6 +32,7 @@ My stared CSS libraries. Inspired by [awesome-python](https://github.com/vinta/a
 
 ## Framework
 * [materialize](https://github.com/Dogfalo/materialize) - Materialize, a CSS Framework based on Material Design
+* [material-design-lite](https://github.com/google/material-design-lite) - Material Design Lite Components in HTML/CSS/JS
 * [bootstrap-material-design](https://github.com/FezVrasta/bootstrap-material-design) - Material design theme for Bootstrap 3
 * [material-ui](https://github.com/callemall/material-ui) - A Set of React Components that Implement Google's Material Design. 
 * [web-starter-kit](https://github.com/google/web-starter-kit) - Google Web Starter Kit (Beta)
